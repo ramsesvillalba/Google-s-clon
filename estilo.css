@@ -111,6 +111,7 @@ main .section-main-input .search-icon{
     width: 15px;
     height: 15px;
     margin: 0;
+    cursor: pointer;
 }
 
 main .div-input .micro-icon {
