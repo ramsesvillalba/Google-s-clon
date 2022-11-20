@@ -71,6 +71,7 @@ main .main-section-logo{
 main .main-section-logo img{
     height: 92px;
     width: 272px;
+    cursor: pointer;
 }
 
 main .section-main-input{
